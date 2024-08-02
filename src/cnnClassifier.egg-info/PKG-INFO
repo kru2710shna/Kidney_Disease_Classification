@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.1
+Summary: package for python cnnclassifier
+Home-page: https://github.com/kru2710shna/Kidney_Disease_Classification
+Author: kru2710shna
+Author-email: krushna27doc@gmail.com
+Project-URL: Bug Tracker, https://github.com/kru2710shna/Kidney_Disease_Classification/issues
+Description-Content-Type: text/makrdown
+
 # Kidney_Disease_Classification
 End To End Deep Learning Project on Kidney Disease Classification.
 
