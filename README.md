@@ -34,6 +34,8 @@ pip install -r requirements.txt
 
 ```sh
 git clone https://github.com/kru2710shna Kidney_Disease_Classification.git
+```
+```sh
 cd Kidney_Disease_Classification
 ```
 
