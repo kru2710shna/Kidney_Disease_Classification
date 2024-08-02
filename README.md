@@ -26,6 +26,7 @@ Make sure you have the required dependencies installed. You can install them usi
 
 ```sh
 pip install -r requirements.txt
+```
 
 ## Steps to Run the Project
 
@@ -34,5 +35,5 @@ pip install -r requirements.txt
 ```sh
 git clone https://github.com/kru2710shna Kidney_Disease_Classification.git
 cd Kidney_Disease_Classification
-
+```
 
