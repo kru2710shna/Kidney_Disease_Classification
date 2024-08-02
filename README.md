@@ -22,7 +22,7 @@ The project structure follows a template provided in `template.py`.
 
 ## Requirements
 
-Make sure you have the required dependencies installed. You can install them using the provided `requirements.txt` file.
+Make sure you have the required dependencies installed. You can install them using  `requirements.txt` file.
 
 ```sh
 pip install -r requirements.txt
@@ -39,3 +39,21 @@ git clone https://github.com/kru2710shna Kidney_Disease_Classification.git
 cd Kidney_Disease_Classification
 ```
 
+### Create and Activate a Virtual Environment
+```sh
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
+```
+
+### Install Dependencies
+```sh
+Copy code
+pip install -r requirements.txt
+```
+
+## Run the Application
+```sh
+Copy code
+python src/app.py
+```
